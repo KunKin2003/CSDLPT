@@ -1,0 +1,12 @@
+D:\Student\Junior_2\CSDLPT\Project\QLNH\QLNH\bin\Debug\QLNH.exe.config
+D:\Student\Junior_2\CSDLPT\Project\QLNH\QLNH\bin\Debug\QLNH.exe
+D:\Student\Junior_2\CSDLPT\Project\QLNH\QLNH\bin\Debug\QLNH.pdb
+D:\Student\Junior_2\CSDLPT\Project\QLNH\QLNH\bin\Debug\Guna.UI2.dll
+D:\Student\Junior_2\CSDLPT\Project\QLNH\QLNH\obj\Debug\QLNH.csproj.AssemblyReference.cache
+D:\Student\Junior_2\CSDLPT\Project\QLNH\QLNH\obj\Debug\QLNH.frmLogin.resources
+D:\Student\Junior_2\CSDLPT\Project\QLNH\QLNH\obj\Debug\QLNH.Properties.Resources.resources
+D:\Student\Junior_2\CSDLPT\Project\QLNH\QLNH\obj\Debug\QLNH.csproj.GenerateResource.cache
+D:\Student\Junior_2\CSDLPT\Project\QLNH\QLNH\obj\Debug\QLNH.csproj.CoreCompileInputs.cache
+D:\Student\Junior_2\CSDLPT\Project\QLNH\QLNH\obj\Debug\QLNH.csproj.CopyComplete
+D:\Student\Junior_2\CSDLPT\Project\QLNH\QLNH\obj\Debug\QLNH.exe
+D:\Student\Junior_2\CSDLPT\Project\QLNH\QLNH\obj\Debug\QLNH.pdb
