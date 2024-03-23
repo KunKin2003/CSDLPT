@@ -1,0 +1,28 @@
+public java.sql.Connection getJDBCConnection() {
+        java.sql.Connection connection = null;
+
+        Statement stmt = null;
+
+        ResultSet rs = null;
+        try {
+
+          String url = "jdbc:sqlserver://" + this.getServerName() + ":" + this.getPortNumber() + ";databaseName=" + this.getDatabaseName()
+                  + ";" + this.getOptions();
+
+          connection = DriverManager.getConnection(url, this.getUser(), this.getPassword());
+
+          System.err.println("Ket noi thanh cong.");
+          return connection;
+        }
+
+        catch(SQLException e) {
+
+          System.err.println("Khong tao duoc ket noi co so du lieu.");
+
+          e.printStackTrace();
+
+        }
+
+        return null;   
+
+  }
